@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import Datamaps from 'datamaps';
-import d3 from 'd3';
+import * as d3 from 'd3';
 
 export default class ExtendedDatamaps extends Datamaps {
 
