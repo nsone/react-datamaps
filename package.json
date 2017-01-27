@@ -1,17 +1,11 @@
 {
-  "name": "@sankho/react-datamaps",
+  "name": "nsone-forked-react-datamaps",
   "version": "0.1.1",
-  "description": "React component for D3 DataMaps",
+  "description": "Forked version of brian mills' react component for D3 DataMaps",
   "license": "MIT",
-  "repository": "btmills/react-datamaps",
-  "homepage": "https://github.com/btmills/react-datamaps#readme",
-  "bugs": {
-    "url": "https://github.com/btmills/react-datamaps/issues"
-  },
+  "repository": "nsone/react-datamaps",
   "author": {
-    "name": "Brandon Mills",
-    "email": "mills.brandont@gmail.com",
-    "url": "https://github.com/btmills"
+    "name": "nsone inc"
   },
   "scripts": {
     "build": "babel src --out-dir lib",
@@ -32,7 +26,7 @@
     "lib/*.js"
   ],
   "dependencies": {
-    "datamaps": "^0.4.2"
+    "datamaps": "^0.5.0"
   },
   "devDependencies": {
     "@btmills/eslint-config-btmills": "^1.0.0-beta.6",
