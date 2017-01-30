@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Datamaps from 'datamaps';
+import Datamaps from 'nsone-forked-datamaps';
 
 export default class ExtendedDatamaps extends Datamaps {
 
