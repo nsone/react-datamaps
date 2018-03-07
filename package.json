@@ -1,6 +1,6 @@
 {
   "name": "nsone-forked-react-datamaps",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Forked version of brian mills' react component for D3 DataMaps",
   "license": "MIT",
   "repository": "nsone/react-datamaps",
