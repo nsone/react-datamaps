@@ -1,5 +1,5 @@
 import React from 'react';
-import PropTypes from 'react-proptypes';
+import PropTypes from 'prop-types';
 import ExtendedDatamaps from './extended_datamaps';
 
 const MAP_CLEARING_PROPS = [
